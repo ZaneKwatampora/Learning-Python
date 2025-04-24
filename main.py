@@ -1,5 +1,6 @@
-num = 3
-num2 = 2 
-sum = num + num2
+# import mathematics
+from mathematics import add
+
+sum = add(1, 2)
 print(sum)
-print(num2)
+
